@@ -2,7 +2,7 @@
 ## 
 
 <p align="center">
-<img src="https://github.com/Alba070503/Rei-AyanamiBot-MD/blob/main/Menu2.jpg" alt="Kumiko-MD" width="900"/>
+<img src="https://qu.ax/rseBV.jpg" alt="Kumiko-MD" width="900"/>
 </p>
 
 
