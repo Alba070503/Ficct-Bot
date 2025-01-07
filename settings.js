@@ -38,19 +38,19 @@ global.libreria = 'Baileys'
 global.baileys = 'V 6.7.8'
 global.vs = '2.0.7'
 global.languaje = 'Español'
-global.nameqr = 'YotsubaBot-MD✿'
-global.namebot = 'YotsubaBot-MD✿ᩚ'
-global.sessions = 'YotsubaSession'
-global.jadi = 'YotsubaJadiBot'
+global.nameqr = 'U.FicctBot🐧'
+global.namebot = 'U.FicctBot🐧'
+global.sessions = 'U.FicctSession'
+global.jadi = 'U.FicctJadiBot'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.packname = 'YotsubaBot-MD✿'
-global.botname = 'YotsubaBot-MD✻'
-global.wm = 'YotsubaBot-MD❋'
+global.packname = 'U.FicctBot🐧'
+global.botname = 'U.FicctBot🐧'
+global.wm = 'U.FicctBot🐧'
 global.author = '𝙿𝚘𝚠𝚎𝚛𝚎𝚍 𝙱𝚢 @Alba070503'
-global.dev = '© 𝚙𝚘𝚠𝚎𝚛𝚎𝚍 𝙱𝚢 *ੈ✩‧₊˚ 『𝚂𝚙𝚊𝚌𝚎𝙽𝚒𝚐𝚑𝚝 𝚃𝚎𝚊𝚖』 *ੈ✩‧₊˚'
-global.textbot = 'Yostuba Nakano : Powered By @Alba070503'
+global.dev = 'Bot Hecho Para La Falcutad de la Ficct'
+global.textbot = 'U.FicctBot🐧 Powered @Alba070503'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
@@ -65,25 +65,25 @@ global.avatar = fs.readFileSync('./src/img/avatar_contact.jpg')
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.grupo = 'https://whatsapp.com/channel/0029VaAN15BJP21BYCJ3tH04' //
-global.grupo2 = 'https://whatsapp.com/channel/0029VaAN15BJP21BYCJ3tH04' //
-global.grupo3 = 'https://whatsapp.com/channel/0029VaAN15BJP21BYCJ3tH04' //team oficial
-global.grupo4 = 'https://whatsapp.com/channel/0029VaAN15BJP21BYCJ3tH04' //
-global.grupo5 = 'https://whatsapp.com/channel/0029VaAN15BJP21BYCJ3tH04' //
-global.channel = 'https://whatsapp.com/channel/0029VaAN15BJP21BYCJ3tH04'
-global.channel2 = 'https://whatsapp.com/channel/0029VaAN15BJP21BYCJ3tH04'
-global.md = 'https://github.com/Alba070503/YotsubaBot-MD' 
+global.grupo = 'https://whatsapp.com/channel/0029VaoYlNb2Jl8NhnZuL80M' //
+global.grupo2 = 'https://whatsapp.com/channel/0029VaoYlNb2Jl8NhnZuL80M' //
+global.grupo3 = 'https://whatsapp.com/channel/0029VaoYlNb2Jl8NhnZuL80M' //team oficial
+global.grupo4 = 'https://whatsapp.com/channel/0029VaoYlNb2Jl8NhnZuL80M' //
+global.grupo5 = 'https://whatsapp.com/channel/0029VaoYlNb2Jl8NhnZuL80M' //
+global.channel = 'https://whatsapp.com/channel/0029VaoYlNb2Jl8NhnZuL80M'
+global.channel2 = 'https://whatsapp.com/channel/0029VaoYlNb2Jl8NhnZuL80M'
+global.md = 'https://github.com/Alba070503' 
 global.yt = 'https://youtube.com/@albao7o503'
-global.tiktok = 'https://tiktok.com/@Alba070503'
+global.tiktok = 'https://www.tiktok.com/@u.ficct'
 global.correo = 'Alba070503@gmail.com'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.ch = {
-ch1: '120363198641161536@newsletter',
-ch2: '120363160031023229@newsletter',
-ch3: '120363263466636910@newsletter',
-ch4: '120363370415738881@newsletter',
+ch1: '120363314543492849@newsletter',
+ch2: '120363314543492849@newsletter',
+ch3: '120363314543492849@newsletter',
+ch4: '120363314543492849@newsletter',
 }
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
@@ -92,7 +92,7 @@ global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(fa
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.esti = { key: {participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "6289643739077-1613049930@g.us" } : {})},message: {"videoMessage": { "title": `YotsubaBot-MD✰`, "h": `Hmm`,'seconds': '99999', 'gifPlayback': 'true', 'caption': `❀ Super Bot WhatsApp︎`, 'jpegThumbnail': catalogo }}}
+global.esti = { key: {participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "6289643739077-1613049930@g.us" } : {})},message: {"videoMessage": { "title": `U.FicctBot🐧`, "h": `Hmm`,'seconds': '99999', 'gifPlayback': 'true', 'caption': `Bot Personalizado Powered @Alba070503`, 'jpegThumbnail': catalogo }}}
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
