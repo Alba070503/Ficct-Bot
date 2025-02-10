@@ -35,14 +35,14 @@
   },
   "license": "GPL-3.0-or-later",
 "dependencies": {
-"@adiwajshing/baileys": "npm:@whiskeysockets/baileys@latest",
-"@whiskeysockets/baileys": "github:OfcKing/Bailey",
+"@whiskeysockets/baileys": "github:ds6/bails"
 "@adiwajshing/keyed-db": "^0.2.4",
 "@bochilteam/scraper": "^4.2.4",
 "@bochilteam/scraper-sosmed": "^1.0.5",
 "@xct007/frieren-scraper": "^0.0.2",
 "@ibaraki-douji/pixivts": "^2.4.1",
 "@SumiFX/Scraper": "github:SumiFX/SumiFX-Scraper",
+"@EdderBot02/ytdlf":"github:EdderBot02/ytdlf",
 "awesome-phonenumber": "^3.4.0",
 "ruhend-scraper": "^7.0.4",
 "gradient-string": "^2.0.2",
